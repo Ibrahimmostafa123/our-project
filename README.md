@@ -1,2 +1,2 @@
 # our-project
-this is our project made by ibrahim
+this is our project
